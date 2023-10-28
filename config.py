@@ -1,0 +1,1 @@
+MAX_GAME_LEN = 100
